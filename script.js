@@ -3,6 +3,7 @@ const streamMap = {
     '/rock': 'http://server.url:8000/rock.mp3',
     '/jazz': 'http://server.url:8000/jazz.mp3',
     '/pop': 'http://server.url:8000/pop.mp3'
+    '/player1': 'http://rauxnet.serv00.net:8870/MUXNEWS-NETWORK'
 };
 
 function playStream(path) {
