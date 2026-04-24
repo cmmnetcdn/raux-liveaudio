@@ -1,7 +1,7 @@
 // Example structure: mapping multiple streams
 const streams = {
-    'MUXNEWS-NETWORK': 'http://rauxnet.serv00.net:8870/MUXNEWS-NETWORK',
-    'MUXNEWS-JUAN': 'http://amptvradio.serv00.net:8870/MUXNEWS-JUAN'
+    '/MUXNEWS-NETWORK': 'http://rauxnet.serv00.net:8870/MUXNEWS-NETWORK',
+    '/MUXNEWS-JUAN': 'http://amptvradio.serv00.net:8870/MUXNEWS-JUAN'
 };
 
 const audioOutputs = {};
